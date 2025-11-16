@@ -1,0 +1,12 @@
+# Python 3.8+
+
+# Core dependencies
+numpy>=1.21.0
+matplotlib>=3.4.0
+scipy>=1.7.0
+
+# Jupyter environment
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipython>=7.0.0
+ipykernel>=6.0.0
